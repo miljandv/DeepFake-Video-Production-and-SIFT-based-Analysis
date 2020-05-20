@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Video_utils", "Video_utils\Video_utils.pyproj", "{54AE0C5D-FA1B-4F57-AB7F-AB2AE4A0BB5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3C744E3F-F35C-45CE-ACD9-333CFCF4A0C3}"
+	ProjectSection(SolutionItems) = preProject
+		youtube_video_download_and_crop.txt = youtube_video_download_and_crop.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AE0C5D-FA1B-4F57-AB7F-AB2AE4A0BB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AE0C5D-FA1B-4F57-AB7F-AB2AE4A0BB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {114DEA7F-C334-469D-BFE2-27CC54179FA8}
+	EndGlobalSection
+EndGlobal
